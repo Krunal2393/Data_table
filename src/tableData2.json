@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "Krunal",
+    "country": "America",
+    "github_username": "Krunal_bhadra"
+   
+  },
+  {
+    "id": 2,
+    "name": "Vidhi",
+    "country": "Canada",
+    "github_username": "Vidhi_nayak"
+    
+  },
+  {
+    "id": 3,
+    "name": "Himanish",
+    "country": "Indonesia",
+    "github_username": "Himanish_vyas"
+    
+  },
+  {
+    "id": 4,
+    "name": "Ankit",
+    "country": "Portugal",
+    "github_username": "Ankit_bharvad"
+  },
+  {
+    "id": 5,
+    "name": "Manish",
+    "country": "China",
+    "github_username": "Manish_shaw" 
+   },
+  {
+    "id": 6,
+    "name": "Vaibhav",
+    "country": "Portugal",
+    "github_username": "Vaibhav_purohit" 
+   }
+]

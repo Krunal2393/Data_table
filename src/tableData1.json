@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "full_name": "Ankit",
+    "email": "ankitbarvad@gmail.com",
+    "gender": "Male",
+    "age": 25,
+    "start_date": "2022-01-26"
+  },
+  {
+    "id": 2,
+    "full_name": "Vaibhav",
+    "email": "Vaibhavpurohit@gmail.com",
+    "gender": "Male",
+    "age": 27,
+    "start_date": "2021-01-07"
+  },
+  {
+    "id": 3,
+    "full_name": "Manish",
+    "email": "Manishshaw@gmail.com",
+    "gender": "Male",
+    "age": 23,
+    "start_date": "2021-06-23"
+  },
+  {
+    "id": 4,
+    "full_name": "Himanish ",
+    "email":"Himanishvyas@gmail.com",
+    "gender": "Male",
+    "age": 21,
+    "start_date": "2022-09-15"
+  },
+  {
+    "id": 5,
+    "full_name": "Vidhi ",
+    "email": "Vidhinayak@gmail.com",
+    "gender": "Female",
+    "age": 20,
+    "start_date": "2022-09-15"
+  },
+  {
+    "id": 6,
+    "full_name": "Nikhil",
+    "email": "Nikhil@gmail.com",
+    "gender": "Male",
+    "age": 27,
+    "start_date": "2021-03-09"
+  },
+  {
+    "id": 7,
+    "full_name": "Harsh ",
+    "email": "Harsh@gmail.com",
+    "gender": "Male",
+    "age": 24,
+    "start_date": "2021-06-03"
+  },
+  {
+    "id": 8,
+    "full_name": "Kevin ",
+    "email": "Kevin@gmail.com",
+    "gender": "Male",
+    "age": 26,
+    "start_date": "2021-09-19"
+  },
+  {
+    "id": 9,
+    "full_name": "Priyank ",
+    "email": "Priyank@gmail.com",
+    "gender": "Male",
+    "age": 22,
+    "start_date": "2021-01-07"
+  },
+  {
+    "id": 10,
+    "full_name": "Vinay ",
+    "email": "Vinay@gmail.com",
+    "gender": "Male",
+    "age": 22,
+    "start_date": "2021-02-05"
+  }
+]
